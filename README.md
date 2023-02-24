@@ -8,7 +8,7 @@
 
 - 🤖 I am a software engineer who is passionate about building technology that elevates others and helps us understand the world better.
 -  Some technologies I enjoy working with include Python, Spark and Javascript.
-- 🌱 Currently I'm learning how to use Go.
+- 🌱 Currently I'm learning Go.
 -  I'm looking to collaborate on projects to explore art such as music, movies and sports.
 - 📫 You can reach me at: chandyallan@gmail.com.
 
