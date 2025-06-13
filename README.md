@@ -6,10 +6,10 @@
 ---
 
 
-- 🤖 I am a software engineer who is passionate about building technology that elevates others and helps us understand the world better.
--  Some technologies I enjoy working with include Python, Java and Flink.
+- 🤖 I am a software engineer focused on building technology that empowers people and deepens our understanding of the world.
+- 💾 Some technologies I enjoy working with include Python, Java and Flink.
 - 🌱 Currently I'm learning Redis.
--  I'm looking to collaborate on projects to explore art such as music, movies and sports.
+- 🎨 I'm  interested in collaborating on projects that explore the intersection of technology and art — including music, film, and sports.
 - 📫 You can reach me at: chandyallan@gmail.com.
 
 
